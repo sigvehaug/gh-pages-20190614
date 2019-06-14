@@ -3,7 +3,7 @@ layout: default
 title: Example
 ---
 
-# Example project
+# Sigve Example Page 
 
 - [About the project](about)
 - [Publications](publications)
@@ -11,6 +11,6 @@ title: Example
 
 # News
 
-- Some event
-- Another exciting event
-- More news
+- This is my project funded by SNSF
+- Partners 
+- Code
